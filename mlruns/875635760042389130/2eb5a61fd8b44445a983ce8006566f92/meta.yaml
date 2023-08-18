@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/875635760042389130/2eb5a61fd8b44445a983ce8006566f92/artifacts
+end_time: 1692386011837
+entry_point_name: ''
+experiment_id: '875635760042389130'
+lifecycle_stage: active
+run_id: 2eb5a61fd8b44445a983ce8006566f92
+run_name: suave-moose-27
+run_uuid: 2eb5a61fd8b44445a983ce8006566f92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692385960167
+status: 3
+tags: []
+user_id: Lucas.Franceschi

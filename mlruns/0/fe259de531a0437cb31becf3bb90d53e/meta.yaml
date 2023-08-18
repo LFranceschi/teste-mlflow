@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe259de531a0437cb31becf3bb90d53e/artifacts
+end_time: 1692383982142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe259de531a0437cb31becf3bb90d53e
+run_name: polite-fish-761
+run_uuid: fe259de531a0437cb31becf3bb90d53e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692383981864
+status: 4
+tags: []
+user_id: Lucas.Franceschi

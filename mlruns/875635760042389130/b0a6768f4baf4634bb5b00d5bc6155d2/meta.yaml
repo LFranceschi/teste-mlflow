@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/875635760042389130/b0a6768f4baf4634bb5b00d5bc6155d2/artifacts
+end_time: 1692385869635
+entry_point_name: ''
+experiment_id: '875635760042389130'
+lifecycle_stage: active
+run_id: b0a6768f4baf4634bb5b00d5bc6155d2
+run_name: adorable-cat-425
+run_uuid: b0a6768f4baf4634bb5b00d5bc6155d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692385844916
+status: 3
+tags: []
+user_id: Lucas.Franceschi
